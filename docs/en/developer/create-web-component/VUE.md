@@ -29,6 +29,9 @@ Start by using the following commands to setup a new Web Component project in Vu
 # clone the repository if you haven't already
 git clone https://github.com/uPortal-contrib/uPortal-web-components
 
+# You will need node to use npm. If you do not have node installed you can find 
+# instructions for installing node here: https://github.com/creationix/nvm
+
 # install vue cli if you haven't already
 npm install --global @vue/cli
 
